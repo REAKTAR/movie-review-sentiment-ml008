@@ -1,0 +1,8 @@
+review,expected,predicted,correct
+The movie had excellent acting and a fantastic story.,Positive,Positive,True
+The story was weak and the movie was extremely boring.,Negative,Negative,True
+"A brilliant film with a touching ending, I loved every minute.",Positive,Positive,True
+"Terrible script, wooden acting and a complete waste of time.",Negative,Negative,True
+It was not good at all.,Negative,Negative,True
+"Not bad at all, I actually enjoyed it.",Positive,Negative,False
+"Oh great, another two hours of my life wasted.",Negative,Negative,True

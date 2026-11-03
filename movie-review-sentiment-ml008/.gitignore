@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+# big files: keep out of git (share via Drive link instead)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/cleaned_movie_reviews.csv
+*.zip
